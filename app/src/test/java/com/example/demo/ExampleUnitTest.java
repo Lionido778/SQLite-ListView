@@ -1,4 +1,4 @@
-package com.example.listviewdemo;
+package com.example.demo;
 
 import org.junit.Test;
 

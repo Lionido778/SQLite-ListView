@@ -1,4 +1,4 @@
-package com.example.listviewdemo.DatabaseDemo;
+package com.example.demo.DatabaseDemo;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -8,7 +8,7 @@ import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.listviewdemo.R;
+import com.example.demo.R;
 
 import java.util.List;
 

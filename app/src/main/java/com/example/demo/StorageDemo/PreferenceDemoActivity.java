@@ -1,4 +1,4 @@
-package com.example.listviewdemo.StorageDemo;
+package com.example.demo.StorageDemo;
 
 import android.app.Activity;
 import android.content.SharedPreferences;
@@ -9,7 +9,7 @@ import android.widget.Switch;
 
 import androidx.annotation.Nullable;
 
-import com.example.listviewdemo.R;
+import com.example.demo.R;
 
 public class PreferenceDemoActivity extends Activity implements CompoundButton.OnCheckedChangeListener {
 

@@ -1,6 +1,5 @@
-package com.example.listviewdemo.DatabaseDemo;
+package com.example.demo.DatabaseDemo;
 
-import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;

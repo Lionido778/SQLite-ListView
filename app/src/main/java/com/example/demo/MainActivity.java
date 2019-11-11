@@ -1,4 +1,4 @@
-package com.example.listviewdemo;
+package com.example.demo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.listviewdemo.DatabaseDemo.DatabaseActivity;
-import com.example.listviewdemo.StorageDemo.StorageActivity;
+import com.example.demo.DatabaseDemo.DatabaseActivity;
+import com.example.demo.ListViewDemo.ListViewActivity;
+import com.example.demo.StorageDemo.StorageActivity;
 
 public class MainActivity extends AppCompatActivity {
 

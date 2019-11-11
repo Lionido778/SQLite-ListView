@@ -1,4 +1,4 @@
-package com.example.listviewdemo.DatabaseDemo;
+package com.example.demo.DatabaseDemo;
 
 public class Constants {
     public static final String DATABASE_NAME = "yzjblog.com";

@@ -1,4 +1,4 @@
-package com.example.listviewdemo.DatabaseDemo;
+package com.example.demo.DatabaseDemo;
 
 public class User {
     private int id;

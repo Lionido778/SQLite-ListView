@@ -1,4 +1,4 @@
-package com.example.listviewdemo.StorageDemo;
+package com.example.demo.StorageDemo;
 
 
 import android.Manifest;
@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.listviewdemo.R;
+import com.example.demo.R;
 
 import java.io.BufferedReader;
 import java.io.File;

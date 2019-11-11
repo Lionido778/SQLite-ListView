@@ -1,9 +1,11 @@
-package com.example.listviewdemo;
+package com.example.demo.ListViewDemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.ListView;
+
+import com.example.demo.R;
 
 public class ListViewActivity extends AppCompatActivity {
 
