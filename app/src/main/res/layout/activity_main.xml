@@ -10,14 +10,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="ListView"
-        android:textSize="20sp"
-        android:textAllCaps="false"/>
+        android:textAllCaps="false"
+        android:textSize="20sp" />
+
     <Button
         android:id="@+id/btn_SQLite"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SQLite"
-        android:textSize="20sp"
-        android:textAllCaps="false"/>
+        android:textAllCaps="false"
+        android:textSize="20sp" />
 
+    <Button
+        android:id="@+id/btn_Storage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Storage"
+        android:textAllCaps="false"
+        android:textSize="20sp" />
 </LinearLayout>

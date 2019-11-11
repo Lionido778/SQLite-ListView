@@ -77,7 +77,7 @@ public class DatabaseActivity extends AppCompatActivity {
                         Log.d(TAG, "user --> " + user.toString());
                     }
 
-                    mListView.setAdapter(new Adapter(DatabaseActivity.this,result));
+                    mListView.setAdapter(new Adapter(DatabaseActivity.this, result));
                     break;
             }
         }

@@ -60,10 +60,10 @@ public class Adapter extends BaseAdapter {
         }
 
         //这里报了个错，因为TextView.setText时参数只能是字符/字符串 加个空串就好
-        holder.mId.setText((" "+List.get(position).getId()));
+        holder.mId.setText((" " + List.get(position).getId()));
         holder.mName.setText(List.get(position).getName());
-        holder.mAge.setText(" "+List.get(position).getAge());
-        holder.mSalary.setText(" "+List.get(position).getSalary());
+        holder.mAge.setText(" " + List.get(position).getAge());
+        holder.mSalary.setText(" " + List.get(position).getSalary());
         return convertView;
     }
 }
